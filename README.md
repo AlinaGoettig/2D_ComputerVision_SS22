@@ -105,12 +105,12 @@ util.py: Funktionensammlung aller Aufgabenteile für einen leichteren Import in 
             <td>Abschlussprojekt</td>
             <td>
                 <b>Verkehrsschilderkenner</b>
-                Verkehrsschilderkenner.ipynb: Implementierung einer Verkehrsschild-detektion + Histogramm-Matching Klassifizierungsversuch
-                elipse_detection_v2: Neuer/Anderer Versuch zur Elipsendetektion in Bildern
-                template_matching_example.ipynb: Implementierung eines Template Matchings zur Klassifizierung der Ellipsen/potentiellen Schildern
-                sift_example: Versuch einer Sift Implementierung zur Klassifizierung der Ellipsen/potenziellen Schilder
-                util_verkehrsschilderkenner.py: Funktionensammlungen des Verkehrsschilderkenners für die Live-präsentation in complete_routine.ipynb
-                complete_routine.ipynb: Sammlung aller Funktionen für die Live-Vorführung während der Präsentation
+                <p>Verkehrsschilderkenner.ipynb: Implementierung einer Verkehrsschild-detektion + Histogramm-Matching Klassifizierungsversuch</p>
+                <p>elipse_detection_v2: Neuer/Anderer Versuch zur Elipsendetektion in Bildern</p>
+                <p>template_matching_example.ipynb: Implementierung eines Template Matchings zur Klassifizierung der Ellipsen/potentiellen Schildern</p>
+                <p>sift_example: Versuch einer Sift Implementierung zur Klassifizierung der Ellipsen/potenziellen Schilder</p>
+                <p>util_verkehrsschilderkenner.py: Funktionensammlungen des Verkehrsschilderkenners für die Live-präsentation in complete_routine.ipynb</p>
+                <p>complete_routine.ipynb: Sammlung aller Funktionen für die Live-Vorführung während der Präsentation</p>
             </td>
         </tr>
     </tbody>
