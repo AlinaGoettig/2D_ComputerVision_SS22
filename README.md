@@ -116,4 +116,9 @@ util.py: Funktionensammlung aller Aufgabenteile für einen leichteren Import in 
     </tbody>
 </table>
 
-
+### References
+https://git.ios.htwg-konstanz.de/mof-cv2d-ss22/MOF-CV2D-SS22-A6
+https://docs.google.com/presentation/d/1hsRV4n0E0FtHxk373kjO49_Q6CPppVVMucQHaqGOmZg/edit?usp=sharing 
+##### Dartschild-Intrpretationsprojekt eines Teammitglieds
+https://github.com/IZeybek/TeamProject-WiSe-DartImageProcessing/blob/main/dart_backend/Components/Calibration/EllipseUtils.py
+https://github.com/IZeybek/TeamProject-WiSe-DartImageProcessing/blob/14ecabb795bbda3c5158ce92750c12baae147294/dart_backend/Components/Calibration/EllipseUtils.py#L193
